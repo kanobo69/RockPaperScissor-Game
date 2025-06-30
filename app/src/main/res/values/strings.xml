@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="choose">Choose Rock, Paper, or Scissors!</string>
+    <string name="win">You Win!</string>
+    <string name="lose">You Lose!</string>
+    <string name="draw">Its a Draw!</string>
+    <string name="reset">Reset Game</string>
+</resources>
